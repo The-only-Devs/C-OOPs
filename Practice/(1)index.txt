@@ -1,0 +1,51 @@
+class_object_constructor_method
+Types of constructor
+Destructor
+Desturctor with Pointers
+Copy Constructor with Pointers
+
+FriendFunction and friendClass
+
+Encapsulation
+Inheritance
+Modes of inheritance
+Types of Inheritance : Singlelevel, Multilevel, Multiple, Hierarchical, Hybrid
+Singlelevel
+// Parent class
+// Child class
+
+Multilevel
+// Parent class
+// Child class
+// GrandChild class
+
+Multiple
+// Parent1 class
+// Parent2 class
+// Child class
+
+Hierarchical
+// Parent class
+// Parent class
+// Child1 class
+// Child2 class
+
+// Diamond problem
+
+Polymorphism
+virtual keyword, virtual function, Run Time polymorphism(Function Overriding) ,
+pureVirtualFunction, abstractClass
+
+Function Overloading
+Operator Overloading
+(OperatorOverloading1: Points/Complex Number example, Uranay Operator)(see cppNuts channel Operator Operloading vdo to see more example)
+
+(Operator_Overloading_COUT_Object "cout<<s1;")(see codeBeauty channel operator oveloading for explaination)
+(Operator_Overloading_COUT_Object_COUT_Object "cout<<s1<<s2;")(see codeBeauty channel operator oveloading for explaination)
+(Operator_Overloading_+=_Object "school += s1;")(see codeBeauty channel operator oveloading for explaination)
+(Operator_Overloading_-=_Object "school -= s1;")(see codeBeauty channel operator oveloading for explaination)
+
+Abstraction
+
+ArrayOfObject_Inheitance_Polymorphism
+
